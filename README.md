@@ -1,4 +1,4 @@
-# Mall-Customers-Data-Grouping-using-Clustering-Algorithms
+# Customer-Segmentation-using-Clustering-Algorithms
 
 This repository contains customer segmentation projects using two popular unsupervised machine learning algorithms:
 
